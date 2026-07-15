@@ -1,0 +1,1 @@
+["ACE_Banana","cigs_pops_poppack","ACE_MRE_LambCurry","ACE_MRE_MeatballsPasta","ACE_MRE_CreamTomatoSoup","ACE_WaterBottle"]
